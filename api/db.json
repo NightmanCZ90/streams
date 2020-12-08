@@ -14,6 +14,12 @@
       "title": "Other Stream",
       "description": "Here is other stream",
       "id": 3
+    },
+    {
+      "title": "Novy stream",
+      "description": "nejaky popis",
+      "userId": "104262754428798180059",
+      "id": 4
     }
   ]
 }
