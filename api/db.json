@@ -11,6 +11,12 @@
       "description": "ahoj",
       "userId": "104262754428798180059",
       "id": 7
+    },
+    {
+      "title": "Testovaci stream",
+      "description": "stream for testing",
+      "userId": "104262754428798180059",
+      "id": 8
     }
   ]
 }
