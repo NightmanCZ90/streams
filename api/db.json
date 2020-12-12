@@ -1,31 +1,16 @@
 {
   "streams": [
     {
-      "title": "my stream",
-      "description": "this is my stream",
-      "id": 1
-    },
-    {
-      "title": "Other Stream",
-      "description": "Here is other stream",
-      "id": 3
-    },
-    {
-      "title": "Novy stream",
-      "description": "changed by patch request",
-      "userId": "104262754428798180059",
-      "id": 4
-    },
-    {
-      "title": "Changed Title",
-      "description": "Changed description",
-      "id": 5
-    },
-    {
-      "title": "Reusing Component",
-      "description": "Reused StreamForm component",
+      "title": "testasfasfd",
+      "description": "test",
       "userId": "104262754428798180059",
       "id": 6
+    },
+    {
+      "title": "asdf",
+      "description": "ahoj",
+      "userId": "104262754428798180059",
+      "id": 7
     }
   ]
 }
